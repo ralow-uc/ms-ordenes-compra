@@ -1,0 +1,9 @@
+/Users/raullow/Documents/Duoc/Repos/fullstack/ms/ms-ordenes-compra/src/main/java/com/example/msordenes/MsOrdenesCompraApplication.java
+/Users/raullow/Documents/Duoc/Repos/fullstack/ms/ms-ordenes-compra/src/main/java/com/example/msordenes/controller/OrdenCompraController.java
+/Users/raullow/Documents/Duoc/Repos/fullstack/ms/ms-ordenes-compra/src/main/java/com/example/msordenes/dto/OrdenCompraRequestDTO.java
+/Users/raullow/Documents/Duoc/Repos/fullstack/ms/ms-ordenes-compra/src/main/java/com/example/msordenes/dto/OrdenCompraResponseDTO.java
+/Users/raullow/Documents/Duoc/Repos/fullstack/ms/ms-ordenes-compra/src/main/java/com/example/msordenes/exception/GlobalExceptionHandler.java
+/Users/raullow/Documents/Duoc/Repos/fullstack/ms/ms-ordenes-compra/src/main/java/com/example/msordenes/exception/ResourceNotFoundException.java
+/Users/raullow/Documents/Duoc/Repos/fullstack/ms/ms-ordenes-compra/src/main/java/com/example/msordenes/model/OrdenCompra.java
+/Users/raullow/Documents/Duoc/Repos/fullstack/ms/ms-ordenes-compra/src/main/java/com/example/msordenes/repository/OrdenCompraRepository.java
+/Users/raullow/Documents/Duoc/Repos/fullstack/ms/ms-ordenes-compra/src/main/java/com/example/msordenes/service/OrdenCompraService.java

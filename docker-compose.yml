@@ -1,0 +1,13 @@
+services:
+  ms-ordenes-compra:
+    build: .
+    image: ms-ordenes-compra:latest
+    container_name: ms-ordenes-compra
+    ports:
+      - "8082:8082"
+    environment:
+      SPRING_DATASOURCE_URL: "jdbc:oracle:thin:@fullstack_medium?TNS_ADMIN=/app/wallet"
+      SPRING_DATASOURCE_USERNAME: "ADMIN"
+      SPRING_DATASOURCE_PASSWORD: "Oracle123456"
+      SPRING_DATASOURCE_DRIVER_CLASS_NAME: "oracle.jdbc.OracleDriver"
+      SPRING_JPA_HIBERNATE_DDL_AUTO: "none"

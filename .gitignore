@@ -1,5 +1,5 @@
 HELP.md
-target/
+# target/ comentado para que Docker Lab pueda usar el JAR compilado
 .mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
